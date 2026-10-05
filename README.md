@@ -4,6 +4,6 @@ CTO at [Geçer Piyon](https://gecerpiyon.com), an online chess academy in Türki
 
 ## What I work on
 
-Ed tech.
+Ed Tech.
 
 Most of my work lives in private company repositories.
